@@ -1,0 +1,23 @@
+{
+  "name": "campusops",
+  "version": "1.0.0",
+  "description": "CampusOps👩‍💻",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotishmitaBorah/CampusOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotishmitaBorah/CampusOps/issues"
+  },
+  "homepage": "https://github.com/JyotishmitaBorah/CampusOps#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
